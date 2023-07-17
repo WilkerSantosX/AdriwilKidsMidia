@@ -1,0 +1,16 @@
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 40px !important;
+}
+
+.carousel {
+    height: 560px !important;
+}
+
+.carousel-item {
+    width: 300px !important;
+	top: -100px !important;;
+}
+
+.size-logo{
+	width: 212px;
+}
